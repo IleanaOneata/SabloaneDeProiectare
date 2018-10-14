@@ -1,6 +1,0 @@
-ROLE,GRANT_ROLE_TO,ALL_MANAGERS?,ONLY_MANAGERS_IN_GROUP,GRANTED_GROUP,ALLOW_MGR_ACCESS,NUMBER_OF_LEVELS,TARGET,TARGET_POP_OF,DIRECT_REPORTS,TARGET_GROUP,ACESS_REPORTS,NUMBER_LEVELS,INCLUDE_ACCESS_SELF,EXCLUDE_GRANTED _USER
-SFCC Employee on Self (Dependents USA),Everyone (All Employees),,,,,,,Granted User (Self),,,,,,
-SFCC Employee on Self (Dependents USA),Permission Group,,,SAP BestPractices Super Admin,,,,Granted User's Department,,,,,,
-SFCC Employee on Self (Dependents USA),Permission Group,,,SAP BestPractices Super Admin,,,,,,SFCC All EmployeesARE(EC),,,,
-SFCC Employee on Self (Dependents USA),Managers,Y,,,,,,,Y,,,,,
-SFCC Employee on Self (Dependents USA),Managers,,Y,SAP BestPractices Upgrade Center Admin,Y,2,,,,SFCC All EmployeesAUS(EC),Y,2,Y,Y
