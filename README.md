@@ -1,2 +1,2 @@
-# DesignPatterns
-DesignPatterns - Work
+"# Sabloane-Proiectare" 
+"# Sabloane-Proiectare" 
