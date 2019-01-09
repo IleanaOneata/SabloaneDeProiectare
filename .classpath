@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Lab2_SP/src/|DesignPatterns/src/|Laboratoare/" kind="src" path=""/>
+	<classpathentry kind="src" path="DesignPatterns/src"/>
+	<classpathentry kind="src" path="Lab2_SP/src"/>
+	<classpathentry kind="src" path="Laboratoare"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Lab2_SP/bin"/>
+</classpath>
