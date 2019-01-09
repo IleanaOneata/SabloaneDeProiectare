@@ -1,7 +1,7 @@
 package patterns.model;
 
 import patterns.model.Visitor;
-import patterns.model.AlignStrategy;
+import specialAlign.SpecialAlignLastLab;
 
 public class Paragraph implements Element {
   private String text;
