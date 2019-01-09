@@ -54,5 +54,3 @@ public class Paragraph implements Element {
   }
 
 }
-// avem un paragraph care implementeaza interfata alignedparagraph care are metoda print 
-// creem clase 
