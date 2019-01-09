@@ -1,15 +1,5 @@
-/*
- * Copyright (c) 2018 SSI Schaefer Noell GmbH
- *
- * $Header: $
- */
 
 package visitor.model;
-
-/**
- * @author <a href="mailto:bario@ssi-schaefer-noell.com">bario</a>
- * @version $Revision: $, $Date: $, $Author: $
- */
 
 public interface Element {
   public void add(Element element);

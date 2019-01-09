@@ -1,12 +1,11 @@
 package patterns.model;
 
 import patterns.model.Visitor;
-import specialAlign.SpecialAlignLastLab;
 import patterns.model.AlignStrategy;
 
 public class Paragraph implements Element {
   private String text;
-  private SpecialAlignLastLab align;
+  private AlignStrategy align;
 
   public Paragraph(String text) {
     this.text = text;
@@ -39,7 +38,7 @@ public class Paragraph implements Element {
     visitor.visit(this);
   }
   
-  public void setAlignStrategy(SpecialAlignLastLab alignStrategy) {
+  public void setAlignStrategy(AlignStrategy alignStrategy) {
 	    this.align = alignStrategy;
 	  }
 }
