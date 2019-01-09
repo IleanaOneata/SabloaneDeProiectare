@@ -46,7 +46,4 @@ public class Paragraph implements Element {
   public void accept(Visitor visitor) {
     visitor.visit(this);
   }
-
 }
-// avem un paragraph care implementeaza interfata alignedparagraph care are metoda print 
-// creem clase 
