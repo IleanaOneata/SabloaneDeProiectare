@@ -1,17 +1,6 @@
-/*
- * Copyright (c) 2018 SSI Schaefer Noell GmbH
- *
- * $Header: $
- */
-
 package patterns.model;
 
 import patterns.model.Visitor;
-
-/**
- * @author <a href="mailto:bario@ssi-schaefer-noell.com">bario</a>
- * @version $Revision: $, $Date: $, $Author: $
- */
 
 public class Image implements Element {
   private String imageName;

@@ -1,18 +1,7 @@
-/*
- * Copyright (c) 2018 SSI Schaefer Noell GmbH
- *
- * $Header: $
- */
-
 package patterns.model;
 
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * @author <a href="mailto:bario@ssi-schaefer-noell.com">bario</a>
- * @version $Revision: $, $Date: $, $Author: $
- */
 
 public class Book implements Element {
   private Author author;

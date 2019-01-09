@@ -1,20 +1,9 @@
-/*
- * Copyright (c) 2018 SSI Schaefer Noell GmbH
- *
- * $Header: $
- */
-
 package patterns.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import patterns.model.Visitor;
-
-/**
- * @author <a href="mailto:bario@ssi-schaefer-noell.com">bario</a>
- * @version $Revision: $, $Date: $, $Author: $
- */
 
 public class Section implements Element {
   private String title;
